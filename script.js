@@ -22,5 +22,12 @@ let weather= {
         document.querySelector(".temp").innerText= temp + " °C";
         document.querySelector(".humidity").innerText= "Humidity: " + humidity +"%";
         document.querySelector(".wind").innerText= "Wind Speed: " + speed + " km/hr";
+    },
+    search: function() {
+      this.fetchWeather(document.queryselector(".search-bar").value;
     }
 };
+
+document.query selector(".search button").addEventListener("click", function () {
+       weather.search();
+    });
