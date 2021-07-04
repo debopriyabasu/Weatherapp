@@ -144,3 +144,11 @@ h1.temp {
    }
  }
 
+.live {
+    background-color: rgb(235, 230, 224);
+    padding: 1em;
+    width: 100%;
+    justify-content: left;
+    align-items: center;
+    
+  }
