@@ -85,7 +85,7 @@ h1.temp {
 }
 
 .txt {
-   font-size: 30px;
+   font-size: 25px;
    font-family: Georgia, 'Times New Roman', Times, serif;
    
 }
@@ -146,9 +146,9 @@ h1.temp {
 
 .live {
     background-color: rgb(235, 230, 224);
-    padding: 1em;
+    padding: 12px;
     width: 100%;
-    justify-content: left;
+  
     align-items: center;
     
   }
