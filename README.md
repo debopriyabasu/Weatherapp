@@ -31,6 +31,6 @@ The website aims at providing accurate results.
 Open for suggestions and requests. Please request through issue or pull requests.
 
 <h2> Screenshots of the Website </h2>
-![initial](https://user-images.githubusercontent.com/85153924/125974980-bb8127f3-9e1e-4f61-8477-1a222d5fdb8e.PNG)
+
 
 
