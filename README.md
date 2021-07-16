@@ -32,5 +32,12 @@ Open for suggestions and requests. Please request through issue or pull requests
 
 <h2> Screenshots of the Website </h2>
 
-
+![](initial.PNG)
+ Home page initially
+ 
+ ![](jaipur.PNG)
+ Jaipur
+ 
+ ![](goa.PNG)
+ Goa
 
